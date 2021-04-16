@@ -106,5 +106,5 @@ dist
 # Misc files
 .DS_Store
 .vscode/
-.pdf
-.zip
+*.pdf
+*.zip
